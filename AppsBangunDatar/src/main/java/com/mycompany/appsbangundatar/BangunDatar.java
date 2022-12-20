@@ -24,8 +24,8 @@ abstract class BangunDatar {
         this.namaBangunDatar = namaBangunDatar;
     }
     
-    
-        abstract double luas();
+    /* Method untuk menghitung Luas bangun datar */
+    abstract double luas();
     abstract double keliling();
     
     
